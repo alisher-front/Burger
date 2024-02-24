@@ -1,0 +1,57 @@
+.head{
+    height:886.17px; 
+    background: url(./IGrzIxlfue\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.soz{
+    width: 165px;
+    height: 49px;
+    background-color: #F6762C;
+    border-radius: 5px;
+}
+.header{
+    height: 100%;
+    background: rgba(0, 0, 0, 0.819);
+    border: 3px solid #312F30;
+}
+.box-1{
+    width: 262px;
+    top: 1001px;
+    left: 230px;
+    border-radius: 10px;
+    background-color: #333233f1;
+}
+.badan{
+    background: #312F30;
+    border: 3px solid #312F30;
+}
+.badan-2{
+    background-color: #312F30;
+}
+.carta-1{
+    background: url(./ali-yahya-Qn9DBu5OFDA-unsplash\ 1.png);
+    width: 500px;
+    height: 250px;
+}
+.carta-2{
+    background: url(./cAsRJ9IU1Q\ \(1\)\ 1.png);
+    width: 500px;
+    height: 250px;
+}
+.carta-3{
+    background: url(./CDSDQwsqfD\ 1.png);
+    width: 500px;
+    height: 250px;
+}
+.carta-4{
+    background: url(./uyW27SeCbK\ 1.png);
+    width: 500px;
+    height: 250px;
+}
+.footer{
+    background-color: #312F30;
+}
+.footer-2{
+    background-color: #312F30;
+}
